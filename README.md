@@ -1,2 +1,2 @@
 # Database-LeetCode-Answers
-Database practice questions and answers
+Database practice questions from LeetCode with answers
